@@ -2,7 +2,6 @@
 
 **Update `README.md` if you want to submit your module to the online repo!**
 
-```Nekopoi Module v3.17.3u7 Lockdown```
 
 For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
 

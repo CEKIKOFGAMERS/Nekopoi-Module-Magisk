@@ -1,0 +1,8 @@
+id=Nekopoi-module
+name=Nekopoi Module Magisk
+version=v3.17.3u7
+versionCode=32300
+author=Kristoforus Ananta Putra Magallan
+description=Nekopoi Module for Magisk
+support=http://euphoriarp.duckdns.org
+minMagisk=17000
